@@ -1,0 +1,11 @@
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\obj\Debug\WinCalc.vbprojAssemblyReference.cache
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\obj\Debug\WinCalc.Calculator.resources
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\obj\Debug\WinCalc.Resources.resources
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\obj\Debug\WinCalc.vbproj.GenerateResource.cache
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\bin\Debug\WinCalc.exe.config
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\bin\Debug\WinCalc.exe
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\bin\Debug\WinCalc.pdb
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\bin\Debug\WinCalc.xml
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\obj\Debug\WinCalc.exe
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\obj\Debug\WinCalc.xml
+D:\REM\SCHOOL\5-5\ELEC 3\WinCalc\WinCalc\obj\Debug\WinCalc.pdb
